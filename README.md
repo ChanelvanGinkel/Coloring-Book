@@ -1,2 +1,3 @@
-# IPP
-Individual Programming Project
+# Programming Project
+Coloring Book
+Chanel van Ginkel
