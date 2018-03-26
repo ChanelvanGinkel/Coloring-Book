@@ -5,4 +5,4 @@ Coded in Processing
 
 ### Planning Document
 
-![alt text](https://chanelvanginkel.github.io/Coloring-Book/PlaningDoc.png)
+![alt text](https://chanelvanginkel.github.io/Coloring-Book/PlanningDoc.png)
